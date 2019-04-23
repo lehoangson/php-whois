@@ -19,5 +19,7 @@ Upload all files to you host and run it like: your-whois-url/?domain=test.com
 
 # Credits
 Peter Le: lehoangson@gmail.com
+
 Company: Nhan Hoa Softwave Company Ltd
+
 WHMCS whois functions: www.whmcs.com
