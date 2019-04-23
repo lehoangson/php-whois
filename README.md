@@ -11,7 +11,7 @@ PHP whois requires PHP 5.3 or better with OpenSSL support to work properly.
 Without SSL support you will not be able to query domains which do not have a whois server but that have a https based whois.
 
 # Installation
-Upload all files to you host and run it like: your-whois-url/?domain=test.com
+Upload all files to your host then run it like: your-whois-url/?domain=test.com
 
 # Credits
 Peter Le: lehoangson@gmail.com
